@@ -1,0 +1,69 @@
+body {
+    background-image: url(image.jpg); 
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    color:white;
+    font-size: 24px;
+}
+
+.navi {
+    display: flex;
+    flex-flow: row wrap;
+    /* flex-flow: row wrap; */
+     color: white; 
+    font-size: 26px;
+    margin: 30px 100px 0;
+}
+
+.child {
+    margin: 0 15px;
+  }
+
+  .left {
+    order: -999;
+    margin-right: auto;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.center {
+    color: black;
+    text-align: center;
+    margin-top: 15%;
+    color: rgba(24, 22, 22, 0.822);
+}
+
+.welcome {
+text-transform: uppercase;
+font-size: 70px;
+font-weight: 900px;
+}
+
+.favorite {
+font-size: 32px;
+font-weight: 800px;
+}
+
+button {
+    text-transform: uppercase;
+    margin-top: 28px;
+    border: 3px solid black;
+    -webkit-background-clip: text;
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 26px;
+}
+  }
+.Color {
+    /* background-color: rgba(255, 255, 255, 0.808); */
+    /* font-size: 24px;
+    font-weight: 900;
+    text-transform: uppercase;
+    background: url(../e`modzi-klesh-royal.jpg);
+    background-repeat: repeat-x;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+}
