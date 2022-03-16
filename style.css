@@ -1,6 +1,7 @@
 body {
     background-image: url(image.jpg); 
     background-size: cover;
+    font-family: 'Secular One', sans-serif;
 }
 
 ul {
@@ -40,6 +41,7 @@ ul {
 text-transform: uppercase;
 font-size: 70px;
 font-weight: 900px;
+margin-bottom: 24px;
 }
 
 .favorite {
@@ -49,7 +51,7 @@ font-weight: 800px;
 
 button {
     text-transform: uppercase;
-    margin-top: 28px;
+    margin-top: 32px;
     border: 3px solid black;
     -webkit-background-clip: text;
     padding: 10px 30px;
